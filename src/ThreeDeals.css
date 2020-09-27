@@ -1,0 +1,17 @@
+.body__bannerThree{
+  display: flex;
+  justify-content: space-evenly;
+  /* width: 100%; */
+  height: 250px;
+  margin-left: -8px;
+  /* margin-right: 15px; */
+}
+
+.body__imageThree{
+  object-fit: contain;
+  height: 228px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* margin-left: 6px; */
+  /* margin-right: 6px; */
+}

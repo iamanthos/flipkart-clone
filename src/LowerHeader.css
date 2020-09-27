@@ -1,0 +1,22 @@
+.lowerHeader{
+  display: flex;
+  align-items: center;
+}
+
+.lowerHeader > p{
+  font-size: 13px;
+  font-weight: bolder;
+}
+
+.lowerHeader:hover{
+  cursor: pointer;
+}
+
+.lowerHeader__icon {
+  opacity: 0.3;
+}
+
+/*
+.MuiSvgIcon-root{
+  margin: 0;
+} */

@@ -1,0 +1,135 @@
+.body{
+  background-color: #f1f3f6;
+  
+}
+
+.body__bannerCarousel{
+  margin-bottom: 10px;
+}
+
+.body__banner{
+  margin-bottom: 10px;
+  /* width: 90%; */
+  /* margin-top: 10px; */
+  /* overflow-y: hidden; */
+}
+
+.body__dayDeals{
+  display: flex;
+}
+
+.body__deals{
+  height: 330px;
+  margin-left: 15px;
+  margin-right: 15px;
+  background-color: #fff;
+  margin-top: 10px;
+  width: 80%;
+  /* box-shadow: 10px -6px 5px -8px black; */
+}
+
+.body__deals > hr{
+  /* margin-top: 20px;
+  color: gray;
+  height: 0.1px; */
+}
+
+.body__dealsHeader{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.body__dealsHeader > h3{
+  font-size: 22px;
+  line-height: 32px;
+  display: inline-block;
+  font-weight: 500;
+}
+
+.body__dealsImg{
+  margin-top: 30px;
+  margin-bottom: 15px;
+  height: 150px;
+  object-fit: contain;
+  width: 50%;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.body__dealsImg:hover{
+  transform: scale(1.08);
+  transition: 300ms transform ease-out;
+}
+
+.body__dealsMain{
+  /* display: flex; */
+  /* width: 80%; */
+}
+
+.body__dealsSlider{
+  border: 1px solid black;
+}
+
+.body__dealFeature{
+  width: 20%;
+  height: 330px;
+  margin: auto;
+  /* float: right; */
+  /* top: -50px; */
+}
+
+.body__dealFeature > img{
+  /* width: 200px; */
+  /* object-fit: contain; */
+  height: 330px;
+  margin-top: 5px;
+}
+
+.body__dealSliderComponent>h3{
+  text-align: center;
+  margin-bottom: 5px;
+}
+
+.body__dealSliderComponent>p{
+  text-align: center;
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: lighter;
+}
+
+.body__dealSliderComponent > p:first-of-type{
+  color:green;
+  opacity: 90%;
+}
+
+.body__dealSliderComponent > p:nth-of-type(2){
+  opacity: 50%;
+}
+
+.body__imageThree{
+  object-fit: contain;
+  height: 228px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* margin-left: 6px; */
+  /* margin-right: 6px; */
+}
+
+.body__bannerThree{
+  display: flex;
+  justify-content: space-evenly;
+  /* width: 100%; */
+  height: 250px;
+  margin-left: -8px;
+  /* margin-right: 15px; */
+}
+
+
+ /* <Carousel image="https://rukminim1.flixcart.com/image/150/150/keuagsw0/jam-spread/f/n/z/340-chocolate-peanut-butter-gluten-free-jar-nut-butter-well-nuts-original-imafvfxjuyajhsxm.jpeg?q=70"
+            heading={"This"}
+            offer={"offer"}
+            details={}/> */
