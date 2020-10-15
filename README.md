@@ -1,3 +1,3 @@
 # react-yqcwgv
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-yqcwgv)
+https://react-yqcwgv.stackblitz.io
